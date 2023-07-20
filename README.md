@@ -1,0 +1,2 @@
+# talentnext_2commonconfig
+talentnext_2commonconfig
